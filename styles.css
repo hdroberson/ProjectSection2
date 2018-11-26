@@ -28,26 +28,26 @@ p {
     margin-right: 30px;
 }
 
-ul {
+.list {
     padding-left: 30px;
-    font-style: italic;
     color: green;
 }
 
-li {
+ .list li {
     margin: 30px;  
     line-height: 3px;
     list-style: square;
+    font-style: italic;
 }
 
 .lineStyle {
     color: green;
-    width: 300px;
+    width: 600px;
 }
 
 #lineDecoration {
     color: green;
-    width: 200px;
+    width: 400px;
 }
 
 #messageArea {
